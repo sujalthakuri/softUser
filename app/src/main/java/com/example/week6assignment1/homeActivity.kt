@@ -5,6 +5,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.LinearLayout
 import androidx.fragment.app.Fragment
+import com.example.week6assignment1.fragments.AboutUsFragment
+import com.example.week6assignment1.fragments.AddStudentFragment
+import com.example.week6assignment1.fragments.HomeFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class homeActivity : AppCompatActivity() {
